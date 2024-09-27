@@ -1,29 +1,14 @@
-{
-  "library": {
-    "name": "City Library",
-    "location": "Downtown",
-    "books": [
-      {
-        "title": "To Kill a Mockingbird",
-        "author": "Harper Lee",
-        "published_year": 1960,
-        "genres": ["Fiction", "Classic"],
-        "available": true
-      },
-      {
-        "title": "1984",
-        "author": "George Orwell",
-        "published_year": 1949,
-        "genres": ["Dystopian", "Political Fiction"],
-        "available": false
-      },
-      {
-        "title": "The Great Gatsby",
-        "author": "F. Scott Fitzgerald",
-        "published_year": 1925,
-        "genres": ["Fiction", "Classic"],
-        "available": true
-      }
-    ]
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
   }
-}
+]
